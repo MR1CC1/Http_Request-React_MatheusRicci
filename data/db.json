@@ -1,9 +1,19 @@
 {
   "produtos": [
     {
-      "nome": "aaaa",
-      "preco": "123",
+      "nome": "Banana",
+      "preco": "10",
       "id": 1
+    },
+    {
+      "nome": "Uva",
+      "preco": "12",
+      "id": 2
+    },
+    {
+      "nome": "Maça",
+      "preco": "7",
+      "id": 3
     }
   ]
 }
